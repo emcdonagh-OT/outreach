@@ -2,7 +2,7 @@
 
 Open Targets Repo for tracking Outreach related issues, namely:
 
-- Todo Blog: possible themes posts to be published at blog.opentargets.org
+- Todo Blog: possible themes to be published at blog.opentargets.org
 - Users Requests from support and workshops
 - Conferences
 
