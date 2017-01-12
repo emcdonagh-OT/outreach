@@ -1,10 +1,9 @@
 # Outreach Tracking
 
-Repo for Outreach in Open Targets 
+Open Targets Repo for tracking Outreach related issues, namely:
 
-This repo contains:
-- User requests: from support and workshops
-- Blog posts: suggested to-do-list of posts to be published 
+- Todo Blog: possible themes posts to be published at blog.opentargets.org
+- Users Requests from support and workshops
 - Conferences
 
 For a list of Open Targets workshops and materials, please go to http://www.targetvalidation.org/outreach 
