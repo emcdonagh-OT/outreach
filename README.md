@@ -4,9 +4,9 @@ Open Targets Repo for tracking Outreach related issues, namely:
 
 - todo blog: possible themes to be published at http://blog.opentargets.org
 
-Author | Topic | blabla
+# of visits from Nov-Jan | Topic | blabla
 -------|-------|---------
-eliseo|python|now!
+448|python|now!
 
 
 - users' requests from support email and hands-on workshops
