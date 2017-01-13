@@ -4,10 +4,11 @@ Open Targets Repo for tracking Outreach related issues, namely:
 
 - todo_blog.csv: possible themes to be published at http://blog.opentargets.org
 
-visits from Nov-Jan | highest number of visits | I have an idea but don't know where to start
--------|-------|---------
-448|when a new post is released |contact Outreach now!
+We had had 448 visits in the last two months (Nov-Jan 17).
+The highest number of visits match the dates when a new post is released. Not surprising.
+So, we need your help. We need to keep readers engaged and coming back to our blog, and then giving the Platform a go.
 
+Have you got an idea of a blog post but you don't know where to start? Get in touch.
 
 - users_requests.csv from support email and hands-on workshops
 
