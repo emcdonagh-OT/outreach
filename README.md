@@ -3,6 +3,12 @@
 Open Targets Repo for tracking Outreach related issues, namely:
 
 - todo blog: possible themes to be published at http://blog.opentargets.org
+
+Author | Topic | blabla
+-------|-------|---------
+eliseo|python|now!
+
+
 - users' requests from support email and hands-on workshops
 - twitter strategy
 - conferences
@@ -14,7 +20,3 @@ Can you access the EMBL-EBI confluence space? If so, get to see where the origin
 https://www.ebi.ac.uk/seqdb/confluence/display/CTTV/Outreach%3A+to+do+list+of+posts+for+Open+Targets+Blog https://www.ebi.ac.uk/seqdb/confluence/display/CTTV/Outreach%3A+Users%27+requests
 
 
-
-Author | Topic | blabla
--------|-------|---------
-eliseo|python|now!
