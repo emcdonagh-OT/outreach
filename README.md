@@ -10,13 +10,14 @@ number of visits from Nov-Jan | highest number of visits at one time | have you 
 
 
 - users' requests from support email and hands-on workshops
+
+This document is to keep track of wishes and requests from users via support email and from the feedback survey completed at the end Open Targets hands-on workshops
+This document is NOT an inventory of feedback gathered through usability testings of new or current aspects of the Platform. This is available elsewhere in Google Docs.
+
 - twitter strategy
+
+
 - conferences
 
+
 For a list of Open Targets workshops and materials, please go to http://www.targetvalidation.org/outreach.
-
-Can you access the EMBL-EBI confluence space? If so, get to see where the original files live:
-
-https://www.ebi.ac.uk/seqdb/confluence/display/CTTV/Outreach%3A+to+do+list+of+posts+for+Open+Targets+Blog https://www.ebi.ac.uk/seqdb/confluence/display/CTTV/Outreach%3A+Users%27+requests
-
-
