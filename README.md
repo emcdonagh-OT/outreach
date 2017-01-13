@@ -4,8 +4,8 @@ Open Targets Repo for tracking Outreach related issues, namely:
 
 - todo_blog.csv: possible themes to be published at http://blog.opentargets.org
 
-We had had 448 visits in the last two months (Nov-Jan 17).
-The highest number of visits match the dates when a new post is released. Not surprising.
+We had 448 visits in the last two months (Nov-Jan 17).
+Overall, the highest number of visits match the dates when a new post is released. Not surprising.
 So, we need your help. We need to keep readers engaged and coming back to our blog, and then giving the Platform a go.
 
 Have you got an idea of a blog post but you don't know where to start? Get in touch.
@@ -16,11 +16,11 @@ This document will help us  keep track of wishes and requests from users via sup
 
 We will check how frequent the request is made by independent users.
 
-Them we will ee IF/WHEN we can implement the changes (to be discussed in internal meetings).
+Then, **IF/WHEN** we can implement the changes (to be discussed in internal meetings).
 
 If the changes get implemented, usability testing will be carried out and the feedback of those will be available in elsewhere.
 
-This document is NOT an inventory of feedback gathered through usability testings of new or current aspects of the Platform. This is available elsewhere in Google Docs.
+This document is **NOT** an inventory of feedback gathered through usability testings of new or current aspects of the Platform. This is available elsewhere in Google Docs.
 
 - twitter strategy
 
