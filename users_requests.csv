@@ -1,2 +1,2 @@
 number,user story, source of the request, GitHub feature (if applicable), Notes
-1,I'd like to have the LD tables from Ensembl in Open Targets,support email, platform issues triage #6, Paola Branson (Biogen)
+1,I'd like to have the LD tables from Ensembl in Open Targets (Paola Bronson - Biogen).,support email, platform issues triage #6, We already link out to the Variant tab in Ensembl which has among other things link to LD.
