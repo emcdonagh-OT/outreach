@@ -15,7 +15,10 @@ Users get in touch through a variety of channels (social media, email support, f
 - twitter strategy:
 http://bit.ly/2m7zpRV
 
-- conferences:
+- ubersheet of Outreach activities:
 http://bit.ly/2kBNUvZ
+
+- manual QC before a release of the Platform:
+http://bit.ly/2lhVSx9
 
 For a list of Open Targets workshops and materials, please go to http://www.targetvalidation.org/outreach.
