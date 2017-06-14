@@ -1,18 +1,18 @@
 theme,author,date of publication,
-API tutorial: get started,Eliseo,Apr-18(2016)
-What's new in targetvalidation v1.1,Eliseo,Apr-18(2016)
-I've got an API key,Eliseo,Jul-1(2016)
-R client,Mick,Jul-8(2016)
-Open Targets Outreach,Denise,Aug-5(2016)
-Aug release of the Platform,Denise,Aug-17(2016)
-Association table with the API,Eliseo,Sep-13(2016)
-Visualising pathway, Aidan,Oct-27(2016)
-Dec release of the Platform,Denise,Dec-12(2016)
-First impressions,David H,Feb-27(2016)
-March release of the Platform,Denise,Mar-28(2017)
-Batch search tool,Denise,Apr-4(2017)
-Direct-indirect evidence,Denise,Apr-25(2017)
-May release of the Platform,Denise,May-19(2017)
+API tutorial: get started,Eliseo,2016-04-18,
+What's new in targetvalidation v1.1,Eliseo,2016-04-18,
+I've got an API key,Eliseo,2016-07-01,
+R client,Mick,2016-07-08,
+Open Targets Outreach,Denise,2016-08-05,
+Aug release of the Platform,Denise,2016-08-17,
+Association table with the API,Eliseo,2016-09-13,
+Visualising pathway, Aidan,2016-10-27,
+Dec release of the Platform,Denise,2016-12-12,
+First impressions,David H,2017-02-27,
+March release of the Platform,Denise,2017-03-28,
+Batch search tool,Denise,2017-04-04,
+Direct-indirect evidence,Denise,2017-04-25,
+May release of the Platform,Denise,2017-05-19,
 Python Client,Andrea,June,
 Batch search,Denise,Apr-04,
 Indirect/direct,Denise,Apr-25,
