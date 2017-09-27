@@ -4,4 +4,4 @@ point FAQ score to scoring page,N.A,Ian,https://www.targetvalidation.org/faq#sco
 tool tip on 'Activity' drug evidence,https://www.targetvalidation.org/evidence/ENSG00000142192/EFO_0005772?view=sec:known_drugs,Denise,https://www.targetvalidation.org/faq#,Denise,N.A.,,
 tool tip and/or FAQ on 'Variant' and 'Mutation' distinction,https://www.targetvalidation.org/evidence/ENSG00000145335/EFO_0002508?view=sec:genetic_associations,Niki,https://www.targetvalidation.org/faq#,Denise,N.A.,,
 Add FAQ on modifying the API,N.A.,Denise,https://www.targetvalidation.org/faq,Denise,N.A.,,
-Add new datasource SLAPEnrich,N.A.,CK,https://www.targetvalidation.org/data_sources,Denise,17.09,,
+Add new datasource SLAPEnrich,https://saezlab.github.io/SLAPenrich/,CK,https://www.targetvalidation.org/data_sources,Denise,17.09,,
