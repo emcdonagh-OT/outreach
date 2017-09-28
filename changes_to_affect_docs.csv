@@ -1,6 +1,6 @@
 Change,Platform URL (dev/staging/test/production),Added by,URL that needs updating/writing,Assigned to,Release version,Done,external link
 Genomics England PanelAPP data,https://www.targetvalidation.org/evidence/ENSG00000157764/Orphanet_3071?view=sec:genetic_associations,Gautier,https://www.targetvalidation.org/data_sources#genomics_england,Denise,17.06,July 2017,
-point FAQ score to scoring page,N.A,Ian,https://www.targetvalidation.org/faq#score,Denise,N.A.,,
+point FAQ score to scoring page,N.A,Ian,https://www.targetvalidation.org/faq#score,Denise,N.A.,Aug 2017,
 tool tip on 'Activity' drug evidence,https://www.targetvalidation.org/evidence/ENSG00000142192/EFO_0005772?view=sec:known_drugs,Denise,https://www.targetvalidation.org/faq#,Denise,N.A.,,
 tool tip and/or FAQ on 'Variant' and 'Mutation' distinction,https://www.targetvalidation.org/evidence/ENSG00000145335/EFO_0002508?view=sec:genetic_associations,Niki,https://www.targetvalidation.org/faq#,Denise,N.A.,,
 Add FAQ on modifying the API,N.A.,Denise,https://www.targetvalidation.org/faq,Denise,N.A.,,
