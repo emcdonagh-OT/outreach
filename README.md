@@ -7,6 +7,8 @@ We had 448 visits in the last two months (Nov-Jan 17).
 Overall, the highest number of visits match the dates when a new post is released. Not surprising.
 So, we need your help. We need to keep readers engaged and coming back to our blog, and then giving the Platform a go.
 
+An equivalent airtable schedule is here: https://airtable.com/invite/l?inviteId=invot0pK9NFXRndPO&inviteToken=aeac153e3742cbaaf027fc7d36058ef9 
+
 Have you got an idea of a blog post but you don't know where to start? Get in touch.
 
 - users requests:
