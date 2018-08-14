@@ -1,4 +1,4 @@
-# Outreach Tracking
+# Outreach
 
 Open Targets Repo for tracking some Outreach activities:
 
