@@ -39,4 +39,4 @@ For a list of Open Targets workshops, please go to http://www.targetvalidation.o
 
 For a list of Open Targets materials (created by Denise), please go to https://github.com/deniseOme/training.
 
-If you use any of the materials (presentation slides or exercise booklet, please acknowledge the original author)
+If you use any of the materials (presentation slides or exercise booklet, please acknowledge the original author).
