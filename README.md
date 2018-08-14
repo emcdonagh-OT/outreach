@@ -20,7 +20,7 @@ http://bit.ly/2kBNUvZ
 - user requests:
 Users get in touch through a variety of channels (social media, email support, face-to-face). They may report bugs or request new features/data. We need to triage them before putting the request into place and implementing the change. Usability testing will be carried out and the feedback of those will be available collated.
 
-- Twitter stats: 1 tweet/day around 21:30 BST
+- Twitter stats (1 tweet/working day around 21:30 BST)
 http://bit.ly/2m7zpRV
 
 - Facebook, LinkedIn, Medium stats (1 post/week for both Facebook and LinkedIn) 
@@ -31,6 +31,7 @@ http://bit.ly/2lhVSx9
 
 - Uberdoc and ubersheet of support emails:
 https://docs.google.com/document/d/1kkq9HjjW8swvtsb1AKZCIHvlEwSrGKF8z05CCod_-44/edit?usp=sharing
+
 https://docs.google.com/spreadsheets/d/1ykq_Oj_RRDvNBmmFTDAe813fEyI2eb-Ewqe5ydvaSx8/edit#gid=1389968017 
 
 For a list of Open Targets workshops, please go to http://www.targetvalidation.org/outreach
