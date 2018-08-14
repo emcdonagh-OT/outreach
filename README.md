@@ -26,7 +26,7 @@ https://bit.ly/2P7DRi7
 • manual QC before a release of the Open Targets Platform:
 http://bit.ly/2lhVSx9
 
-• Users get in touch through a variety of channels (social media, email support, face-to-face). They may report bugs or request new features/data. We need to triage these before putting the request into place and implementing the change. Usability testing will be carried out and the feedback of those will be available collated. These are useful files:
+• users get in touch through a variety of channels (social media, email support, face-to-face). They may report bugs or request new features/data. We need to triage these before putting the request into place and implementing the change. Usability testing will be carried out and the feedback of those will be available collated. These are useful files:
 
 - uberdoc of support emails:
 https://docs.google.com/document/d/1kkq9HjjW8swvtsb1AKZCIHvlEwSrGKF8z05CCod_-44/edit?usp=sharing
