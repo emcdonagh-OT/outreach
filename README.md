@@ -37,6 +37,5 @@ https://docs.google.com/spreadsheets/d/1ykq_Oj_RRDvNBmmFTDAe813fEyI2eb-Ewqe5ydva
 
 For a list of Open Targets workshops, please go to http://www.targetvalidation.org/outreach.
 
-For a list of Open Targets materials (created by Denise), please go to https://github.com/deniseOme/training.
-
+For a list of Open Targets materials, please go to https://github.com/deniseOme/training.
 If you reuse any of the exercise booklet for your own tutorial, please acknowledge the original author.
