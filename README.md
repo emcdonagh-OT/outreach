@@ -1,6 +1,6 @@
 # Outreach
 
-Open Targets Repo for tracking some Outreach activities:
+Open Targets Repo for tracking Outreach activities:
 
 • todo_blog.csv: possible themes to be published at http://blog.opentargets.org
 
