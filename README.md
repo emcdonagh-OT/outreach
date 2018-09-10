@@ -34,8 +34,22 @@ https://docs.google.com/document/d/1kkq9HjjW8swvtsb1AKZCIHvlEwSrGKF8z05CCod_-44/
 - ubersheet of support emails annotated into categories:
 https://docs.google.com/spreadsheets/d/1ykq_Oj_RRDvNBmmFTDAe813fEyI2eb-Ewqe5ydvaSx8/edit#gid=1389968017 
 
+- previous newsletters in mailchimp:
+https://us17.campaign-archive.com/home/?u=d11d0467053c1d4b918eb8738&id=f084c7a7c2
 
-For a list of Open Targets workshops, please go to http://www.targetvalidation.org/outreach.
+- newsletters calendar & analytics:
+https://docs.google.com/spreadsheets/d/1Wz34DNqyjNGzHrkMltuL0-qU5bfj8VtJseQGIi-Xw_Q/edit?usp=sharing
+
+- Outreach 365 (2016-2017)
+https://docs.google.com/document/d/19IL4FjrRUE_4JMXC60M9ksxK5IvhFzUHryNKTLUATuI/edit?usp=sharing
+
+- Outreach 365 (2017-2018)
+under construction
+
+- Outreach summary for SAB
+https://drive.google.com/file/d/1yot4Weu0unMGu6m-JagZUmNmUmS430CZ/view?ths=true
+
+For a list of Open Targets workshops (future and past), please go to http://www.targetvalidation.org/outreach.
 
 For a list of Open Targets materials, please go to https://github.com/deniseOme/training.
 If you reuse any of the exercise booklet for your own tutorial, please acknowledge the original author.
