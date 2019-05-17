@@ -1,78 +1,56 @@
-theme,author,date of publication (old posts first),
-API tutorial: get started,Eliseo,2016-04-18,
-What's new in targetvalidation v1.1,Eliseo,2016-04-18,
-I've got an API key,Eliseo,2016-07-01,
-R client,Mick,2016-07-08,
-Open Targets Outreach,Denise,2016-08-05,
-Aug release of the Platform,Denise,2016-08-17,
-Association table with the API,Eliseo,2016-09-13,
-Visualising pathway, Aidan,2016-10-27,
-Dec release of the Platform,Denise,2016-12-12,
-First impressions,David H,2017-02-27,
-March release of the Platform,Denise,2017-03-28,
-Batch search tool,Denise,2017-04-04,
-Direct-indirect evidence,Denise,2017-04-25,
-Batch search,Denise,2017-04-04,
-Indirect/direct,Denise,2017-04-25,
-May release of the Platform,Denise,2017-05-19,
-Open Targets meets Docker and Luigi,Eliseo,2017-06-16,
-Meetings' highlights,Denise,2017-06-27,
-Integration day,Holly,2017-07-18,
-June release,Denise,2017-07-27,
-Sep release,Denise,2017-11-03,
-New API version,Andrea,2017-11-06,
-Kubernetes,Eliseo,2017-11-30,
-Dec release,Denise,2017-12-08,
-LINK,Andrea,2018-01-18,
-CRISPR,Fiona,2018-02-01,
-Plugins,Luca,2018-02-09,
-Datathon in SF,Denise,2018-02-28,
-Feb release,Denise,2018-03-12,
-Takeda tour,Denise,2018-05-02,
-Apr release,Denise,2018-05-15,
-Q&A w/ Europe PMC,Maria & Denise,2018-05-25,
-June release,Denise,2018-06-27,
-Reposted Open Targets Luigi,Eliseo,2018-08-13,
-Q&A w/ Reactome,Kostas & Antonio & Denise,2018-08-23,
-August release,Denise,2018-08-30,
-Chemical Probes et al,Michaela, 2018-09-10,
-Lexicon of Open Targets - A,Denise,2018-10-02,
-Oct release,Denise,2018-10-30,
-Lexicon of Open Targets - B,Denise,2018-11-08,
-Q&A w/ Cancer Gene Census, Helen Speedy & Denise,2018-11-20,
-How to add new data source I, Glenn Proctor,2018-11-26,
-How to add new data source II, Glenn Proctor,2018-12-06,
-Lexicon of Open Targets - C,Denise,2018-12-11,
-December release,Denise,2018-12-17,
-Lexicon of Open Targets - D,Denise,2019-01-11,
-Cellector on the World Cancer Day,Hannah,2019-02-04,
-February release,Denise,2019-02-20,
-Lexicon of Open Targets - E,Denise,2019-03-19,
-Adding a data source: update, Glenn, 2019-03-29,
-Q&A w/ EFO, Zoe & Denise,2019-04-05,
-Open Targets Genetics release,Denise,2019-04-09,
-Platform 19.04 release, Denise, 2019-05-01,
-Priority scores for the CRISPR data, Fiona, May?,
-Modelling chemical data for drug discovery, Arwa,May or June,
-EFO3, Adam & Zoe & Paola, May or June,
-DevOps platform deployment architecture, Cinzia & Adam, May or June,
-EFO and UK biobank, Simon Jupp & Paola & Zoe,May or June,
-Known safety risks, Eirini,June,
-Challenges when adding CRISPR data to Open Targets Platform, Michaela,June,
-
---,--,--,
-Lexicon of Open Targets - F,Denise,May 2019,
-Lexicon of Open Targets - G,Denise,Jul 2019,
-Lexicon of Open Targets - H,Denise,Sep 2019,
-
-Q&A w/ ChEMBL,Fiona Hunter & Denise,,
-Q&A w/ PROGENy, Michael Schubert & Denise,???,
-Q&A w/ Genetics, Maya & Denise,???,
-Q&A w/ GWAS, Jackie MacArthur & Denise,,
-Exploring Target and Disease similarities using Open Targets Data,Miguel C,,
-How we compute relations (related targets),,,
-Topic Modeling with Elasticsearch graph API,,,
-Tractability: the ins and outs,Chris Radoux,,
-How to use new technologies to develop bespoke applications for drug discovery,Miguel & Ed & Gareth,,
-Custom scoring,,,
-Q&A w/ Expression Atlas,??? & Denise,,
+Lexicon of Open Targets - H;Denise;Sep-19;
+Lexicon of Open Targets - G;Denise;Jul-19;
+Platform 19.04 release;Denise;01/05/19;
+Lexicon of Open Targets - F;Denise;May-19;
+Open Targets Genetics release;Denise;09/04/19;
+Q&A w/ EFO;Zoe & Denise;05/04/19;
+Adding a data source: update;Glenn;29/03/19;
+Lexicon of Open Targets - E;Denise;19/03/19;
+February release;Denise;20/02/19;
+Cellector on the World Cancer Day;Hannah;04/02/19;
+Lexicon of Open Targets - D;Denise;11/01/19;
+December release;Denise;17/12/18;
+Lexicon of Open Targets - C;Denise;11/12/18;
+How to add new data source II;Glenn Proctor;06/12/18;
+How to add new data source I;Glenn Proctor;26/11/18;
+Q&A w/ Cancer Gene Census;Helen Speedy & Denise;20/11/18;
+Lexicon of Open Targets - B;Denise;08/11/18;
+Oct release;Denise;30/10/18;
+Lexicon of Open Targets - A;Denise;02/10/18;
+Chemical Probes et al;Michaela;10/09/18;
+August release;Denise;30/08/18;
+Q&A w/ Reactome;Kostas & Antonio & Denise;23/08/18;
+Reposted Open Targets Luigi;Eliseo;13/08/18;
+June release;Denise;27/06/18;
+Q&A w/ Europe PMC;Maria & Denise;25/05/18;
+Apr release;Denise;15/05/18;
+Takeda tour;Denise;02/05/18;
+Feb release;Denise;12/03/18;
+Datathon in SF;Denise;28/02/18;
+Plugins;Luca;09/02/18;
+CRISPR;Fiona;01/02/18;
+LINK;Andrea;18/01/18;
+Dec release;Denise;08/12/17;
+Kubernetes;Eliseo;30/11/17;
+New API version;Andrea;06/11/17;
+Sep release;Denise;03/11/17;
+June release;Denise;27/07/17;
+Integration day;Holly;18/07/17;
+Meetings' highlights;Denise;27/06/17;
+Open Targets meets Docker and Luigi;Eliseo;16/06/17;
+May release of the Platform;Denise;19/05/17;
+Direct-indirect evidence;Denise;25/04/17;
+Indirect/direct;Denise;25/04/17;
+Batch search tool;Denise;04/04/17;
+Batch search;Denise;04/04/17;
+March release of the Platform;Denise;28/03/17;
+First impressions;David H;27/02/17;
+Dec release of the Platform;Denise;12/12/16;
+Visualising pathway;Aidan;27/10/16;
+Association table with the API;Eliseo;13/09/16;
+Aug release of the Platform;Denise;17/08/16;
+Open Targets Outreach;Denise;05/08/16;
+R client;Mick;08/07/16;
+I've got an API key;Eliseo;01/07/16;
+API tutorial: get started;Eliseo;18/04/16;
+What's new in targetvalidation v1.1;Eliseo;18/04/16;
